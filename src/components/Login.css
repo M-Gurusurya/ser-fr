@@ -1,0 +1,57 @@
+/* Add this CSS to your project's CSS file or a separate .css file */
+.login-page {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .login-page h1 {
+    color: #6C63FF;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  button {
+    width: 100%;
+    background: #6C63FF;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #504BBF;
+  }
+
+  
